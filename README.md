@@ -1,6 +1,6 @@
 # HEMA - ETL Pipeline Assignment
 
-Event driven ETL pipeline that ingests the Superstore retail dataset into a
+Event driven ETL pipeline that ingests the dataset into a
 medallion (bronze / silver / gold) architecture on AWS, using **Delta Lake** for
 ACID merges, schema evolution, and idempotent reprocessing.
 
