@@ -1,4 +1,4 @@
-# HEMA Retail Sales — Medallion ETL Pipeline Assignment
+# HEMA - ETL Pipeline Assignment
 
 Event driven ETL pipeline that ingests the Superstore retail dataset into a
 medallion (bronze / silver / gold) architecture on AWS, using **Delta Lake** for
