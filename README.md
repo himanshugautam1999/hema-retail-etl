@@ -16,7 +16,7 @@ New CSV  →  S3 landing  →  (s3:ObjectCreated)  →  Lambda  →  Step Functi
                                                               └── Customer
 ```±
 
-## Repository layout
+## Repository layout ##
 
 ```
 hema-retail-etl/
@@ -35,4 +35,5 @@ hema-retail-etl/
 │   └── external_tables.sql  # Glue external tables over the symlink manifests
 ├── pipeline_architecture/                    # architecture diagram
 └── README.md
+
 ```
